@@ -1,4 +1,4 @@
-## ☕ Olá! Eu sou o Reynerthy 👋
+## ☕ Olá! 👋
 
 - 🔭 Atualmente bolsista do Grupo GEPABIOH
 - 🌱 Estudando Meteoroligia e Telecomunicações
