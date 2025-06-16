@@ -1,5 +1,7 @@
 ## ☕ Olá! 👋
 
+# ![snake gif](https://github.com/Reynerthy/Reynerthy/blob/output/github-contribution-grid-snake.gif)
+
 - 🔭 Atualmente bolsista do Grupo GEPABIOH
 - 🌱 Estudando Meteorologia e Telecomunicações
  
