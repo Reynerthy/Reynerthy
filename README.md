@@ -1,7 +1,5 @@
 ## ☕ Olá! 👋
 
-# ![snake gif](https://github.com/Reynerthy/Reynerthy/blob/output/github-contribution-grid-snake.gif)
-
 - 🔭 Atualmente bolsista do Grupo GEPABIOH
 - 🌱 Estudando Meteorologia e Telecomunicações
  
@@ -21,3 +19,5 @@
     <img align="center" alt="TK_VSCode" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"/>
     <img align="center" alt="TK_VSCode" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
 </div>
+
+# ![snake gif](https://github.com/Reynerthy/Reynerthy/blob/output/github-contribution-grid-snake.gif)
