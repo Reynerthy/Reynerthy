@@ -1,7 +1,7 @@
 ## ☕ Olá! 👋
 
 - 🔭 Atualmente bolsista do Grupo GEPABIOH
-- 🌱 Estudando Meteoroligia e Telecomunicações
+- 🌱 Estudando Meteorologia e Telecomunicações
  
 <div> 
   <a href="https://www.instagram.com/reynerthy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
